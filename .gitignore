@@ -1,0 +1,22 @@
+# Arduino/PlatformIO
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+*.o
+*.a
+*.ko
+*.obj
+*.elf
+*.hex
+
+# Build folders
+build/
+bin/
+obj/
+
+# Local configuration
+.DS_Store
+Thumbs.db
+*.local
