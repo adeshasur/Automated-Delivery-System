@@ -109,4 +109,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Developed by **[Adesha Sur](https://github.com/adeshasur)**
+Developed by **[Adheesha Sooriyaarachchi](https://github.com/adeshasur)**
